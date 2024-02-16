@@ -56,7 +56,7 @@ function saveAndClose(button) {
     let model = popupContent.querySelector('p:nth-of-type(1)').textContent;
     let price = popupContent.querySelector('p:nth-of-type(1)').textContent;
 
-    alert('Your Bookign Is Confirmed!');
+    alert('Your Booking Is Confirmed!');
     
     document.querySelector('.overlay').remove();
 }
