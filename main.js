@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let password = document.getElementById('password').value;
 
         // Check if the username and password are correct
-        if (email === 'abcd@uowmail.au' && password === 'abcd') {
+        if (email === 'abcd@gmail.com' && password === 'abcd') {
             // Redirect to index.html
             window.location.href = 'index.html';
         } else {
